@@ -1,2 +1,0 @@
-# kod
-the mem
